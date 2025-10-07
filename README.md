@@ -46,3 +46,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+State Diagram
+<img width="1920" height="1080" alt="Pranitha E6 RTL" src="https://github.com/user-attachments/assets/6133ea05-b9c1-45bf-a54a-123ac69e1fc1" />
+
+Clock Pulse
+<img width="1920" height="1080" alt="Pranitha E6 CP" src="https://github.com/user-attachments/assets/0ee592cb-40d4-4fc5-9022-2e1cfc2180f0" />
+
+
